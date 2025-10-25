@@ -86,8 +86,14 @@ Cria uma instância EC2 com security group.
 ### ✏️ Passo 5: Personalizar o Projeto
 ⚠️ Importante: Nomes de bucket S3 devem ser únicos globalmente! Sempre personalize o nome do bucket.
 
-1️⃣ Alterar Nome do Bucket S3
+1️⃣ Alterar Nome do Bucket S3<br>
 Edite o arquivo s3.tf e altere o nome do bucket para algo único.
+
+2️⃣ Altere o arquivo main.tf<br>
+Poderá alterar o arquivo main.tf e colocar seu próprio nome e "owner".
+
+3️⃣ Criar bucket no S3<br>
+Crie um bucket no S3, que vai ser responsável por armazenar o estado de arquivo do Terraform. Refenciei o bucket no arquivo backend.tf, em "bucket =".
 
 ### 🚀 Passo 6: Executar Terraform Localmente
 
