@@ -11,7 +11,7 @@ provider "aws" {
   region = "us-east-1"
   default_tags {
     tags = {
-      owner      = "gaioso"
+      owner      = "valtece"
       managed-by = "terraform-actions"
     }
   }
