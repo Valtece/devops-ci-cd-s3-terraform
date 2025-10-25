@@ -104,22 +104,22 @@ Crie um bucket no S3, que vai ser responsável por armazenar o estado de arquivo
 
 **Inicializar**<br>
 terraform init
-![Verificar instalações](images/init.png)
+![Init](images/init.png)
 
 **Validar**<br>
 terraform validate
-![Verificar instalações](images/validate.png)
+![Validate](images/validate.png)
 
 **Formatar**<br>
 terraform fmt
 
 **Planejar**<br>
 terraform plan
-![Verificar instalações](images/plan.png)
+![Plan](images/plan.png)
 
 **Aplicar**<br>
 terraform apply
-![Verificar instalações](images/apply.png)
+![Apply](images/apply.png)
 
 ✅ Parabéns! Você criou sua primeira infraestrutura com Terraform! 🎉
 
