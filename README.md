@@ -146,12 +146,12 @@ git commit -m "Atualizar Código"<br>
 
 git push origin main
 
-![Verificar instalações](./images/commit.png)<br>
+![Commit](./images/commit.png)<br>
 
 2️⃣ Acompanhar o Workflow
 Vá para GitHub → Actions e acompanhe o deploy automático.
 
-![Verificar instalações](./images/actions.png)<br>
+![Verificar Fluxo CICD](./images/actions.png)<br>
 
 ### 🧹 Passo 9: Limpeza e Cleanup
 ⚠️ Muito importante! Sempre execute a limpeza ao final para evitar custos desnecessários.
