@@ -68,7 +68,7 @@ OBS: (substitua SEU_USUARIO) e pós o seu usuário é o nome o qual você deu pa
 
 Entrar no diretório: cd Lab-Terraform-Actions/devops-ci-cd-s3-terraform
 
-![Verificar instalações](images/clone-repo.png)
+![Clone](images/clone-repo.png)
 
 ### 📄 Passo 4: Entender os Arquivos Terraform
 
