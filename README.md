@@ -45,7 +45,7 @@ aws configure
 
 aws sts get-caller-identity
 
-![Fork](images/login-edit.png)<br>
+![Fork](images/login-edit.png)
 
 ✅ Se retornar informações sobre sua conta AWS, está tudo configurado!
 
