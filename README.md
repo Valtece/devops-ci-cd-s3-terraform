@@ -9,6 +9,7 @@
 - Git: Versionamento de código e colaboração
 
 🏗️ Arquitetura do Projeto:
+
 ![Arquitetura do Projeto](images/arquitetura.png)
 
 ### 🔧 Passo 1: Preparar o Ambiente
