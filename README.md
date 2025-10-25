@@ -58,7 +58,7 @@ aws sts get-caller-identity
 3. Escolha sua conta pessoal
 4. Aguarde a criação do fork
 
-![Fork](images/fork.png)<br>
+![Fork](images/fork.png)
 
 2️⃣ Clonar para sua Máquina
 
@@ -68,7 +68,7 @@ OBS: (substitua SEU_USUARIO) e pós o seu usuário é o nome o qual você deu pa
 
 Entrar no diretório: cd Lab-Terraform-Actions/devops-ci-cd-s3-terraform
 
-![Verificar instalações](images/clone-repo.png)<br>
+![Verificar instalações](images/clone-repo.png)
 
 ### 📄 Passo 4: Entender os Arquivos Terraform
 
@@ -131,7 +131,7 @@ Adicione suas credenciais AWS como secrets no GitHub:
 - AWS_ACCESS_KEY_ID
 - AWS_SECRET_ACCESS_KEY
 
-![Verificar instalações](images/segredos.png)<br>
+![Verificar instalações](images/segredos.png)
 
 ⚠️ Segurança: Nunca commite credenciais AWS no código! Sempre use GitHub Secrets.
 
@@ -147,12 +147,12 @@ git commit -m "Atualizar Código"<br>
 
 git push origin main
 
-![Commit](images/commit.png)<br>
+![Commit](images/commit.png)
 
 2️⃣ Acompanhar o Workflow
 Vá para GitHub → Actions e acompanhe o deploy automático.
 
-![Verificar Fluxo CICD](images/actions.png)<br>
+![Verificar Fluxo CICD](images/actions.png)
 
 ### 🧹 Passo 9: Limpeza e Cleanup
 ⚠️ Muito importante! Sempre execute a limpeza ao final para evitar custos desnecessários.
@@ -164,7 +164,7 @@ Use o workflow de cleanup no GitHub Actions ou execute localmente:
 
 terraform destroy
 
-![Verificar instalações](images/destroy.png)<br>
+![Verificar instalações](images/destroy.png)
 
 
 
