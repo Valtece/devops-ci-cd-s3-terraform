@@ -58,7 +58,7 @@ aws sts get-caller-identity
 3. Escolha sua conta pessoal
 4. Aguarde a criação do fork
 
-![Fork](images/fork.png)
+![](images/fork.png)
 
 2️⃣ Clonar para sua Máquina
 
